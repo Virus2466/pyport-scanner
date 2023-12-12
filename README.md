@@ -10,5 +10,5 @@ pip install -r requirements.txt
 
 ### Then Run app.py 
 
-## This only Perform Basic scans , I will add another features later on.
+## This only Basic Project  , I will add another features later on.
 
