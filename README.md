@@ -13,5 +13,5 @@ pip install -r requirements.txt
 
 ### Then Run app.py 
 
-## This only Basic Project  , I will add another features later on.
+## This is  only Basic Project  , I will add another features later on.
 
