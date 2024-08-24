@@ -12,15 +12,6 @@
 #         print('Usage : %s  ip' % sys.argv[0])
 
 
-# try:
-#     start_port = int(input("Enter a port number: "))
-#     end_port = int(input("Enter Ending Port: "))
-#     if 1 <= start_port <= 65535:
-#         print("This is a VALID port number.")
-#     else:
-#         raise ValueError
-# except ValueError:
-#     print("This is NOT a VALID port number.")
 
 import socket
 import ipaddress
